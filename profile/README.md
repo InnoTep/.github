@@ -19,6 +19,7 @@ Our mission is to bridge the gap between research and real-world applications, d
 Our repositories feature research projects, prototypes, datasets, and tools that support our mission.
 - 🤖 ATENT@
 - 📋 FGCS
+- 👩🏼‍🏫 Gades
 
 ## 💡 Contributing  
 We welcome contributions from researchers, developers, and enthusiasts who share our passion for innovation!  
