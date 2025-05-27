@@ -12,30 +12,34 @@
 </div>
 
 ## 🎯 Mission Statement
-InnoTep is a multidisciplinary research group at the Universidad Politécnica de Madrid dedicated to advancing technological innovation in healthcare, education, and information systems. Our mission is to bridge the gap between academic research and practical applications, developing solutions that create meaningful societal impact.
+InnoTep is a multidisciplinary research group at the Universidad Politécnica de Madrid dedicated to advancing technological innovation in healthcare, privacy & security, and education. Our mission is to bridge the gap between academic research and practical applications, developing solutions that create meaningful societal impact.
 
 ## 🔬 Research Areas
 Our team conducts cutting-edge research in the following domains:
 
-### 🎮 Therapy
+### 🏥 Healthcare
+- Clinical decision support systems fostering professional consensus
+- eHealth platforms for hospital process optimization
+- Patient-centered care technology solutions
 - Development of serious games for neurodevelopmental disorder assessment
 - Integration of therapeutic interventions in educational environments
 - Machine learning applications for early detection and intervention
 
-### 🏥 Healthcare Innovation
-- Clinical decision support systems fostering professional consensus
-- eHealth platforms for hospital process optimization
-- Patient-centered care technology solutions
-
-### 📚 Educational Technology
-- Innovation in teaching methodologies
-- Technology-enhanced learning environments
-- Educational assessment tools and frameworks
-
-### 🔒 Information Security
+### 🔒 Privacy and Security
 - Data protection in healthcare systems
 - Privacy-preserving computation
 - Secure information system architectures
+- Cybersecurity in clinical environments
+- Regulatory compliance and data governance
+- Identity management and access control
+
+### 📚 Education
+- Innovation in teaching methodologies
+- Technology-enhanced learning environments
+- Educational assessment tools and frameworks
+- Integration of therapeutic tools in educational settings
+- Learning analytics and adaptive learning systems
+- Digital competence development
 
 ## 🚀 Featured Projects
 
