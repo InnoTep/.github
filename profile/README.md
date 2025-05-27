@@ -20,6 +20,7 @@ Our repositories feature research projects, prototypes, datasets, and tools that
 - 🤖 ATENT@
 - 📋 FGCS
 - 👩🏼‍🏫 Gades
+- 🥼 Galatea
 
 ## 💡 Contributing  
 We welcome contributions from researchers, developers, and enthusiasts who share our passion for innovation!  
